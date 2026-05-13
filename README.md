@@ -2,6 +2,13 @@
 
 ## Quantum Feature Augmentation for Financial Market Prediction
 
+## Members
+- Carson Brice
+- Johnny Eschbach
+- Pranay Kumar
+- Grant Palte
+- Max Sullivan
+
 ## 1. Motivation and Core Difficulty
 
 Financial market prediction is characterized by:
